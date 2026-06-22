@@ -1,4 +1,4 @@
-public class MultiplicationTable {
+public class Table2 {
     public static void main(String[] args) {
         int number = 2;
         
